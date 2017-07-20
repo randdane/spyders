@@ -1,0 +1,3 @@
+# spyders
+
+Spyders for ScrapingHub
